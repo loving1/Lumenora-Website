@@ -1,5 +1,11 @@
+All links are considered confidential and for YC judges only. 
+
 # Device 
 - [Photos are in our pitch deck](https://docsend.com/view/m86u6bx) (we are just now sending off the next round of prototypes and proof of concepts)
+
+# Use Cases
+- [Early Stage Disease Detection](https://docsend.com/view/94xwqd7) -- currently being used without CV or AI and could be incorporated into our device to improve systems & usefulness 
+- [UPS Use Cases / Supply Chain Use Cases](https://docsend.com/view/zcxs6a8)
 
 # Software Demos 2018
 - [Smart Security App](https://drive.google.com/open?id=1W3mII8YWdDIwROSCGDtyl6Xi2wRZKuAp)
