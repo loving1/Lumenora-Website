@@ -4,8 +4,6 @@
 # Software Demos 2018
 - [Smart Security App](https://drive.google.com/open?id=1W3mII8YWdDIwROSCGDtyl6Xi2wRZKuAp)
 
-Demos from 2016 <br> 
-- Tracking color / objects https://github.com/loving1/Lumenora-Website/blob/master/tennisball%20tracking.mp4  </br> <br> 
-- Head tracking https://github.com/loving1/Lumenora-Website/blob/master/HeadTracking.mp4 </br> 
-
-  </body> 
+# Demos from 2016 
+- [Tracking color / objects](https://github.com/loving1/Lumenora-Website/blob/master/tennisball%20tracking.mp4) 
+- [Head tracking] (https://github.com/loving1/Lumenora-Website/blob/master/HeadTracking.mp4)
