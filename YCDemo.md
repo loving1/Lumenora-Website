@@ -1,5 +1,5 @@
 # Device 
-- Photos are in our pitch deck: https://docsend.com/view/m86u6bx (we are just now sending off the next round of prototypes and proof of concepts)
+- [Photos are in our pitch deck](https://docsend.com/view/m86u6bx) (we are just now sending off the next round of prototypes and proof of concepts)
 	</br> 
 	<br> </br> <br> </br>
 
