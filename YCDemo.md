@@ -2,6 +2,7 @@ All links are considered confidential and for YC judges only.
 
 # Device 
 - [Photos are in our pitch deck](https://docsend.com/view/m86u6bx) (we are just now sending off the next round of prototypes and proof of concepts)
+- [Hardware / electronic prototypes Feb 2018](https://drive.google.com/open?id=1wfr7KrUKAge25OT_u5xsQ9OAjwMLajro) updates have since been made to the hardware where buttons operate and engage with software and firmware is properly implemented. 
 
 # Use Cases
 - [Early Stage Disease Detection](https://docsend.com/view/94xwqd7) -- currently being used without CV or AI and could be incorporated into our device to improve systems & usefulness 
