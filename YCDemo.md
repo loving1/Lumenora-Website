@@ -1,4 +1,4 @@
-All links are considered confidential and for YC judges only. 
+## All links and information on this page are considered confidential and for YC judges only. If you've arrived on this site by accident or on purpose and are not a YCombinator judge nor part of the Lumenora official team, please close this page, do not make mention of it and forget the contents. 
 
 # Device 
 - [Photos are in our pitch deck](https://docsend.com/view/m86u6bx) (we are just now sending off the next round of prototypes and proof of concepts)
@@ -14,3 +14,5 @@ All links are considered confidential and for YC judges only.
 Demos from 2016 <br> 
 - [Tracking color / objects](https://github.com/loving1/Lumenora-Website/blob/master/tennisball%20tracking.mp4)
 - [Head tracking](https://github.com/loving1/Lumenora-Website/blob/master/HeadTracking.mp4) 
+
+## All links and information on this page are considered confidential and for YC judges only. If you've arrived on this site by accident or on purpose and are not a YCombinator judge nor part of the Lumenora official team, please close this page, do not make mention of it and forget the contents. Kindly, Rosie 
